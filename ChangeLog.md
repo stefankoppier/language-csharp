@@ -1,5 +1,6 @@
 # Revision history for language-csharp
 
-## 0.1.0.0  -- YYYY-mm-dd
+## 0.0.1  -- 2019-05-09
 
-* First version. Released on an unsuspecting world.
+* First release containing the lexer, parser, abstract syntax tree and pretty
+printer for most of the C# 6.0 draft specification.
