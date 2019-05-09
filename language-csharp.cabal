@@ -19,6 +19,11 @@ build-type:          Simple
 extra-source-files:  ChangeLog.md
 cabal-version:       >=1.10
 
+source-repository head
+  type:     git
+  location: https://github.com/StefanKoppier/language-csharp.git
+
+
 library
     exposed-modules:     Language.CSharp.Lexer
                        , Language.CSharp.Syntax
